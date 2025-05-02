@@ -1,0 +1,2 @@
+# WEBSITE_PERFORMANCE_A-B-TESTING
+This project analyzes a two-week A/B test where DigitalPath Innovations evaluated two webpage versions to determine which better drives user engagement, conversion rates, and overall customer satisfaction.
